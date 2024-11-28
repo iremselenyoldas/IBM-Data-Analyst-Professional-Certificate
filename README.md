@@ -31,22 +31,22 @@ This repository contains projects that I completed throughout the IBM Data Analy
 
 The program consists of 11 courses, each designed to build critical data analysis skills:
 
-1. **Introduction to Data Analytics**  
+1. [**Introduction to Data Analytics**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Introduction%20to%20Data%20Analytics.PNG)
    - An introduction to the concepts and tools of data analysis.
 
-2. **Excel Basics for Data Analysis**  
+2. [**Excel Basics for Data Analysis**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Excel%20Basics%20for%20Data%20Analysis.PNG) 
    - Learn how to use Excel to manipulate and analyze data using pivot tables and charts.
 
-3. **Data Visualization and Dashboards with Excel and Cognos**  
+3. [**Data Visualization and Dashboards with Excel and Cognos**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.PNG)  
    - Develop visualizations and dashboards to present your data effectively.
 
-4. **Python for Data Science, AI & Development**  
+4. [**Python for Data Science, AI & Development**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.PNG)
    - A foundational Python course focused on data analysis using Pandas, Numpy, and Jupyter Notebooks.
 
-5. **Python Project for Data Science**  
+5. [**Python Project for Data Science** ](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Python%20Project%20for%20Data%20Science.PNG) 
    - A project-based course where you create a simple Python dashboard.
 
-6. **Databases and SQL for Data Science with Python**  
+6. [**Databases and SQL for Data Science with Python**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.PNG)  
    - Learn how to interact with relational databases and use SQL queries to analyze data.
 
 7. [**Data Analysis with Python**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Data%20Analysis%20with%20Python.PNG) 
