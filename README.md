@@ -1,4 +1,4 @@
-# IBM Data Analyst Professional Certificate Projects
+# IBM Data Analyst Professional Certificate Projects <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
 
