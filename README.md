@@ -49,7 +49,7 @@ The program consists of 11 courses, each designed to build critical data analysi
 6. **Databases and SQL for Data Science with Python**  
    - Learn how to interact with relational databases and use SQL queries to analyze data.
 
-7. **Data Analysis with Python**  
+7. [**Data Analysis with Python**](https://github.com/iremselenyoldas/IBM-Data-Analyst-Professional-Certificate-Projects/blob/main/Certifications/Data%20Analysis%20with%20Python.PNG) 
    - Delve deeper into Python for data analysis, including data wrangling and regression analysis.
 
 8. **Data Visualization with Python**  
